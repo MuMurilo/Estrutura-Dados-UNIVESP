@@ -17,9 +17,9 @@ int div = number1 / number2;
 float fdiv = (float)number1/ (float)number2;
 int res = number1 % number2;
 
-std::cout << sum;
-std::cout << sub;
-std::cout << mul;
+std::cout << sum << "\n";
+std::cout << sub<< "\n";
+std::cout << mul << "\n";
 
 
     return 0;
